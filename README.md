@@ -44,3 +44,14 @@ apresente graficamente a resposta para a pergunta.
 ### Resalvas
 - É permitido a utilização de bibliotecas extras
 - A entrega do desafio deve ser feita por GIT. Responda o email com o link do seu repositório.
+
+
+
+
+#### Resposta ao desafio
+Como podemos observar no grafico 3 de "Precipitação Acumulada ao Longo do tempo" podemos identificar que a região da bacia irá ter uma alta na precipitação, a projeção acumulada dos dias para a região ultrapassa a região dos 700 "Pontos".
+
+Gostaria de ressaltar que devido ao tempo não consegui fazer as alterações necessarias no codigo, peço para que caso façam o teste se atentem as variaveis de ambiente que estou utilizando na "main.py". Sendo elas:
+1- files_path :  Caminho para os arquivos de projeção
+2- save_path : Caminho para salvar os graficos
+3- contour_path: Caminho do arquivo "PSATCMG_CAMARGOS.bln" contendo o contorno da região
